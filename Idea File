@@ -1,9 +1,53 @@
+Mod Ideals:
+
+  Fit the feel of Minecraft still
+  Minimal Crafting-only items
+  Strong Ambience
+  Maximum configurability that is very use friendly and clearly explained the effect not all this random junk thats in the configs and they have no idea what it means.
+
 Dungeon(Real Name TBA):
+
+  Item that takes you to the village area
+  portals leading to dungeons in village
 
 Summoning(Real Name TBA):
 
+  Incense Grenade(Real Name TBA): 
+    Throwable item that sends the thrower to the impact location
+    Creates an out of phase section of the world
+    Starts the summoning minigame
+    Summoners in the field can't be injured
+    A Summoner(Real Name TBA) and Vessel(Real Name TBA) needed to use it
+    Target needed for succesful use
+    Specific to the Summoner; a summoner can't use the Incense Grenades(Real Name TBA) of another (Subject to change)
+  Summoning Minigame(Real Name TBA):
+    Two participants each side: Summoner(Real Name TBA) and Vessel(Real Name TBA)
+    Two or more teams
+    Summoners(Real Name TBA) can't be injured during the game, Vessels(Real Name TBA) need to defeat each other to win
+    Summoners(Real Name TBA) knock lettered balls into sockets disperesed through 3D space using Cue Balls(Real Name TBA)
+    3 Cue Balls(Real Name TBA) to start, recieve 3 more every 10 seconds, maximum storage of 7
+    Balls(Real Name TBA) are unnaffected by gravity, but experience drag
+    When a letter is acquired, it may either be added to the list, swapped with a letter in it, or scrapped
+    Based on the letter composition of the Material(Real Name TBA), the Material(Real Name TBA) changes.
+    100 Standard(Real Name TBA) Materials(Real Name TBA) allows for Summoning of Divine(Real Name TBA) Materials(Real Name TBA)
+    50 Divine(Real Name TBA) Materials(Real Name TBA) allows for Summoning of Unexplored(Real Name TBA) Materials(Real Name TBA)
+    Vowels don't affect frequency composition of Materials(Real Name TBA)
+    B, C, D, F, G, H, and J are low frequency
+    K, L, M, N, P, Q, and R are mid frequency
+    S, T, V, W, X, Y, and Z are high frequency
+    A Material(Real Name TBA) composed of a majority of high frequency will be stronger against one composed mainly of mid frequency, but weak to one composed mainly of low frequency
+    A Material(Real Name TBA) composed of a majority of mid frequency will be stronger against one composed mainly of low frequency, but weak to one composed mainly of high frequency
+    A Material(Real Name TBA) composed of a majority of low frequency will be stronger against one composed mainly of high frequency, but weak to one composed mainly of mid frequency
+    A Material(Real Name TBA) composed of equal parts low, mid, and high frequency will transform into the Black Maw that Swallows All (nu – lp – eu – bf – zuh – ei – jkv – iu – a – xw), attack the summoner, and kill them instantly. (don't do that)
+    If a summoner has no stock of Cue Balls(Real Name TBA) and one of the Cue Balls(Real Name TBA) moving in the field belonging to them is pocketed, the Material(Real Name TBA) will transform into the Black Maw that Swallows All (nu – lp – eu – bf – zuh – ei – jkv – iu – a – xw), attack the summoner, and kill them instantly. (don't do that either)
+    A Cue Ball(Real Name TBA) will dissapear if it stops moving for 3 seconds or is pocketed.
+    A Cue Ball(Real Name TBA) that has been launched by the summoner but has not dissapeared may be hit again.
+
 Stat-Slash-Skill-System(Real Name TBA):
+
+
 
 Misc:
 
-Torches for each Wood - sticks for each wood? or maybe an alternate more decorative recipe
+  Torches for each Wood -> 1 plank + 1 coal = 8 themed torches, standard torch shape
+  InfiniTNT -> Only available with Avarita (subject to change), deletes world when detonated. Config to 
